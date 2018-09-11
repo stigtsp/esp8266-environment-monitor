@@ -1,3 +1,6 @@
 [submodule "CCS811"]
 	path = CCS811
 	url = https://github.com/stigtsp/CCS811-micropython
+[submodule "tmp102"]
+	path = tmp102
+	url = https://github.com/khoulihan/micropython-tmp102
